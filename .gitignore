@@ -1,0 +1,7 @@
+# tiny-stack-vm-01-run-20261122 — local run leftovers
+/out/
+/scores/
+*.log
+*.tar.gz
+.DS_Store
+node_modules/
